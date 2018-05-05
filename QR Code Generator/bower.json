@@ -1,0 +1,30 @@
+{
+  "name": "QR-Code-Generator",
+  "version": "0.1.7",
+  "homepage": "https://github.com/Katie-Sussex-1997/QR-Code-Generator",
+  "authors": [
+    "K M Hawkswell <katehawkswell2016@outlook.com>"
+  ],
+  "description": "Creates QR Code Images",
+  "main": "src/qr-code.js",
+  "keywords": [
+    "qr",
+    "qrcode",
+    "qr-code",
+    "webcomponent",
+    "customelement",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo"
+  ],
+  "dependencies": {
+    "qrjs": "~0.1.2"
+  }
+}

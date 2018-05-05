@@ -1,6 +1,6 @@
-# &lt;qr-code&gt;
+# QR Code Generator
 
-Web Component for generating QR Codes, using (a [fork] of) [qr.js](https://github.com/lifthrasiir/qr.js) lib.
+Generates QR Codes, using (a [fork] of) [qr.js](https://github.com/lifthrasiir/qr.js) lib.
 
 ## Demo
 

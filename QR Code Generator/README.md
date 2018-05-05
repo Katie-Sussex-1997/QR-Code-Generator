@@ -4,4 +4,4 @@ Generates QR Codes, using (a [fork] of) [qr.js](https://github.com/lifthrasiir/q
 
 ## Demo
 
-> [Try it here](http://Katie-Sussex-1997.io/QR-Code-Generator/demo).
+> [Try it here](http://katie-sussex-1997.io/QR-Code-Generator/demo).
